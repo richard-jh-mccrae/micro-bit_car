@@ -1,2 +1,2 @@
-# micro-bit_car
-An RC car controlled by two BBC Micro:bits.
+# Remote-controlled car
+The brains are two BCC Micro:bits. The system uses four DC motors, and two TB6612FNG motor drive circuits.  
